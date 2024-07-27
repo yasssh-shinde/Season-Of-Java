@@ -73,7 +73,7 @@ This repository contains my daily progress, notes, and code examples as I work t
 
 1. Clone the repository to your local machine:
     ```sh
-    git clone https://github.com/your-username/Season-of-Java.git
+    git clone https://github.com/yasssh-shinde/Season-of-Java.git
     ```
 
 2. Navigate to the relevant day's folder to view the code and notes.
